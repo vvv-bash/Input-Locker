@@ -759,7 +759,7 @@ SOFTWARE.
 
 **Made with ❤️ for the Linux community**
 
-[⭐ Star this repo](https://github.com/yourusername/input-locker) • [🐛 Report Bug](https://github.com/yourusername/input-locker/issues) • [💡 Request Feature](https://github.com/yourusername/input-locker/issues)
+[⭐ Star this repo](https://github.com/vvv-bash/Input-Locker) • [🐛 Report Bug](https://github.com/vvv-bash/Input-Locker/issues) • [💡 Request Feature](https://github.com/vvv-bash/Input-Locker/issues)
 
 </div>
 
