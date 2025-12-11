@@ -1,0 +1,14 @@
+
+# Requirements for Input Locker (install with pip)
+# Recommended: create a virtualenv and then run `pip install -r requirements.txt`
+
+# Desktop GUI
+PyQt6>=6.4.0
+evdev>=1.6.0
+psutil>=5.9.0
+
+# Web API Server (optional - for web interface)
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-socketio>=5.10.0
+pydantic>=2.5.0
