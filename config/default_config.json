@@ -1,0 +1,23 @@
+{
+  "general": {
+    "hotkey": "Ctrl+Alt+L",
+    "autostart_blocked": false,
+    "minimize_to_tray": true,
+    "show_notifications": true,
+    "log_enabled": true
+  },
+  "devices": {
+    "block_keyboards": true,
+    "block_mice": true,
+    "allow_touchscreens": true,
+    "block_hotplug_usb": true,
+    "whitelist": []
+  },
+  "ui": {
+    "theme": "dark",
+    "start_minimized": false,
+    "always_on_top": false,
+    "language": "en",
+    "first_run_completed": false
+  }
+}

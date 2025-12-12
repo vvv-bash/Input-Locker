@@ -1,0 +1,13 @@
+[Unit]
+Description=Input Locker Backend (API server)
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/opt/input-locker/venv/bin/python /opt/input-locker/api/api_server.py
+WorkingDirectory=/opt/input-locker
+Restart=on-failure
+User=root
+
+[Install]
+WantedBy=multi-user.target
